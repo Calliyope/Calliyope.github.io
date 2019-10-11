@@ -42,6 +42,11 @@ a {
     color: var(--main-white)
   }
 
+form {
+  margin-bottom:20px;
+  margin-top:20px;
+}
+
   /* Navigation Styling */
   
 .nav {
@@ -115,6 +120,14 @@ a {
 
   /* Contact section */
 
+#contact-section h1 {
+    font-size:3rem;
+}
+
+#contact-section h2 {
+  font-size:2rem;
+}
+
 #contact-p {
     font-size: 1.25rem;
     font-weight: 100;
@@ -137,6 +150,10 @@ a {
 
 .skill-icon {
     width: 40px;
+}
+
+#skills-head {
+  font-size:3rem;
 }
 
 /* Footer */
