@@ -1,4 +1,4 @@
-# H1 About Me Project
+ About Me Project
 
-     **Made by Erin Joosen**
-     **Made for educational purposes**
+     Made by Erin Joosen
+     Made for educational purposes
