@@ -132,7 +132,7 @@ a {
     height:40%;
     border:4px solid var(--main-yellow);
     background-color: var(--main-white);
-    color: black;
+    color: #181719;
   }
 
 .skill-icon {
