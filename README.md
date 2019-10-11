@@ -23,4 +23,4 @@ This repository was made to share my learning with my peers and coaches at BeCod
 
 # License
 
-See the license.txt for further information re licensing. 
+All content has been created by me for specific use with this project. 
