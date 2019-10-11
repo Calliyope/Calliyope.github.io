@@ -20,8 +20,8 @@ body {
   
 h1,h2,h3 {
     font-family: 'Raleway', sans-serif;
-    margin-bottom:20px;
-    margin-top:20px;
+    margin-bottom:15px;
+    margin-top:15px;
     /* font-weight: 700; */
   }
   
@@ -109,8 +109,8 @@ a {
 .profile-picture {
     display: block;
     border:4px solid var(--main-white);
-    max-width: 25%;
-    max-height:25%;
+    max-width: 20%;
+    max-height:20%;
   }
 
   /* Contact section */
@@ -119,7 +119,9 @@ a {
     font-size: 1.25rem;
     font-weight: 100;
     font-style: italic;
-    color: var(--main-yellow)
+    color: var(--main-yellow);
+    margin-top:8px;
+    margin-bottom:10px;
   }
 
   /* Skills section */
