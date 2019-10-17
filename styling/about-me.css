@@ -1,42 +1,26 @@
-:root {
-    --main-white: #F3EFF5;
-    --main-yellow: #ffe825;
-    --main-gray: #34323D;
-  }
-
   /* Base Styling */
   
 body {
-    font-family: sans-serif;
-    line-height: 1.4; 
-    color: var(--main-white);
     margin-top: 100px;
-    background-color: #181719;
-    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
-    min-height: calc(100vh - 100px);
   }
   
 h1,h2,h3 {
-    font-family: sans-serif;
-    margin-bottom:5px;
-    margin-top:5px;
+
   }
   
  h1 {
-    font-size: 3.4rem;
+    
   }
   
 h2 {
-    font-size: 2.4rem;
   }
   
 h3 {
-    font-size: 1.7rem;
+    
   } 
   
 a {
-    text-decoration: none;
-    color: var(--main-white)
+  
   }
 
 form {
@@ -47,41 +31,23 @@ form {
   /* Navigation Styling */
   
 .nav {
-    display: flex;
-    justify-content: space-between;
-    position: fixed;
-    opacity: 0.7;
-    top: 0;
-    width: 100%;
-    background-image: linear-gradient(0deg, #ffe825 0%, #635b1a 2%, #2b291b 100%);
-    z-index: 1;
+ 
   }
 
 #nav-bee {
-  width:65px;
-  height:40px; 
-  margin-top:4px;
-  margin-bottom:2px;
-  margin-left:10px;
   
 }
   
 .nav-list {
-    display: flex;
-    margin: 0.1rem;
-    list-style: none;
-    font-family: sans-serif;
+  
   }
 
 .nav-list a {
-    display: block;
-    font-size: 1.2rem;
-    padding: 0.3rem;
-    margin-right: 1rem;
+   
   }
   
 .nav-list a:hover {
-    text-decoration: underline;
+    
   }
 
   /* Home section */
